@@ -1,0 +1,26 @@
+[window]
+padding = { x = 15, y = 15 }
+title = "Q-SSP: QUANTUM-STABILIZED SANITIZATION PROTOCOL"
+decorations = "full"
+
+[font]
+size = 11.0
+normal = { family = "Consolas", style = "Regular" }
+
+[colors.primary]
+background = '#0d1117' # Deep Navy/Black (GitHub dark style)
+foreground = '#c9d1d9' # Soft White
+
+[colors.normal]
+black =   '#21262d'
+red =     '#ff7b72' # Muted Coral
+green =   '#3fb950' # Forest Emerald
+yellow =  '#d29922' # Mustard Gold
+blue =    '#58a6ff' # Steel Blue
+magenta = '#bc8cff' # Soft Lavender
+cyan =    '#39c5cf' # Seafoam Cyan
+white =   '#b1bac4'
+
+[terminal]
+# This helps sync the frames to prevent line flicker
+osc52 = "OnlyCopy"
