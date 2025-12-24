@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-research_prototype-orange.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Windows-supported-blue?logo=windows&logoColor=white)
+)
 
 **A verified data destruction framework that shifts the foundation of data erasure from computational logic to physical indeterminacy.**
 
