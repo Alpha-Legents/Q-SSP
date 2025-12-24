@@ -214,8 +214,6 @@ While legacy standards like **DoD 5220.22-M** are increasingly insufficient for 
 
 **Title**: *Q-SSP: A Verified Quantum-Entropy Protocol for Information-Theoretic Data Sanitization*
 
-**Abstract Preview**: Available in [docs/abstract.md](docs/abstract.md)
-
 ---
 
 ## ❓ Frequently Asked Questions
@@ -264,7 +262,7 @@ If you use Q-SSP in academic research, please cite:
   author = {Lijo, Aaron},
   title = {Q-SSP: A Verified Quantum-Entropy Protocol for Information-Theoretic Data Sanitization},
   year = {2025},
-  howpublished = {\url{https://github.com/yourusername/Q-SSP}},
+  howpublished = {\url{https://github.com/Alpha-Legents/Q-SSP}},
   note = {Research Prototype}
 }
 ```
