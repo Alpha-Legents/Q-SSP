@@ -63,7 +63,7 @@ Before contributing, make sure you have:
 
 2. **Clone your fork:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Q-SSP.git
+   git clone https://github.com/Alpha-Legents/Q-SSP.git
    cd Q-SSP
    ```
 
