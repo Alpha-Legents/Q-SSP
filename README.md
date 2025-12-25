@@ -1,11 +1,11 @@
 # Q-SSP: Quantum-Stable Sanitization Protocol
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status](https://img.shields.io/badge/status-research_prototype-orange.svg)
 ![Platform](https://img.shields.io/badge/Windows-supported-blue?logo=windows&logoColor=white)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18048291.svg)](https://doi.org/10.5281/zenodo.18048291)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 **A verified data destruction framework that shifts the foundation of data erasure from computational logic to physical indeterminacy.**
