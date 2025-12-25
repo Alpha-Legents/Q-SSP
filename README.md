@@ -61,7 +61,7 @@ colorama>=0.4.6  # Windows only
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Q-SSP.git
+git clone https://github.com/Alpha-Legents/Q-SSP.git
 cd Q-SSP
 ```
 
