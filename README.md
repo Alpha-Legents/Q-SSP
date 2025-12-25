@@ -213,10 +213,11 @@ While legacy standards like **DoD 5220.22-M** are increasingly insufficient for 
 ## 📄 Documentation
 
 ### Whitepaper
-**Status**: In preparation for publication (Q1 2025)
+[Official Technical Whitepaper](https://zenodo.org/records/18048291) * Status: Published (December 2025) * DOI: 10.5281/zenodo.18048291
 
-**Title**: *Q-SSP: A Verified Quantum-Entropy Protocol for Information-Theoretic Data Sanitization*
+Title: Q-SSP: A Verified Quantum-Entropy Protocol for Information-Theoretic Data Sanitization * Author: [Aaron Lijo](https://orcid.org/0009-0000-0978-5842)
 
+Abstract: This research addresses the "Sanitization Gap" in modern NAND-flash storage by utilizing subatomic vacuum fluctuations as a non-deterministic entropy source. Benchmarking confirms a measured Shannon Entropy of 7.997 bits/byte, providing information-theoretic security against advanced forensic recovery.
 ---
 
 ## ❓ Frequently Asked Questions
