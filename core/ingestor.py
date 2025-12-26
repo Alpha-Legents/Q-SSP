@@ -2,9 +2,12 @@ import requests # type: ignore
 import sys
 import time
 from ui import Q_UI
+import urllib3 # type: ignore
+
 
 class QuantumIngestor:
     # Use the specific API endpoint for bytes
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     API_URL = "https://qrng.anu.edu.au/API/jsonI.php?length=32&type=uint8"
 
     @staticmethod
@@ -26,7 +29,7 @@ class QuantumIngestor:
             
             try:
                 # Use the session with a slightly shorter timeout for faster retries
-                r = session.get(QuantumIngestor.API_URL, timeout=8)
+                r = session.get(QuantumIngestor.API_URL, timeout=25, verify=False)
                 
                 if r.status_code == 200:
                     data = r.json()
