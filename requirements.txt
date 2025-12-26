@@ -1,5 +1,5 @@
 # Q-SSP Core Dependencies
-requests>=2.31.0      # For Quantum Handshake (ANU API)
-numpy>=1.24.0         # For High-Entropy Stream Processing
-cryptography>=41.0.0  # For AES-256-CTR Pass 2
-pywin32>=306          # For Low-Level Windows Disk Access
+requests>=2.31.0                              # For Quantum Handshake (ANU API)
+numpy>=1.24.0                                 # For High-Entropy Stream Processing
+cryptography>=41.0.0                          # For AES-256-CTR Pass 2
+pywin32>=306; sys_platform == 'win32'         # For Low-Level Windows Disk Access
