@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status](https://img.shields.io/badge/status-research_prototype-orange.svg)
 ![Platform](https://img.shields.io/badge/Windows-supported-blue?logo=windows&logoColor=white)
-[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18048291.svg)](https://doi.org/10.5281/zenodo.18048291)](https://doi.org/10.5281/zenodo.18048291)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18048291.svg)]
 
 
 
